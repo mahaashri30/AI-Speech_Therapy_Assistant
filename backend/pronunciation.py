@@ -1,3 +1,4 @@
+from pkg_resources import resource_stream
 import pronouncing
 from difflib import SequenceMatcher
 
