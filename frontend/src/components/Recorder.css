@@ -1,0 +1,41 @@
+.recorder-container {
+  text-align: center;
+  margin-top: 40px;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.input-field {
+  padding: 10px;
+  width: 80%;
+  max-width: 400px;
+  font-size: 16px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.record-btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+.record-btn:hover {
+  background-color: #0056b3;
+}
+
+.feedback-card {
+  background-color: #fff;
+  padding: 20px;
+  margin: 0 auto;
+  width: 90%;
+  max-width: 450px;
+  box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
